@@ -38,5 +38,6 @@ Agents get majority revenue for execution/optimization. Full tokenomics will be 
 Simulation data (100 cycles, 50 Monte Carlos) ready.
 
 Let’s build the protocol where humans and AI uplift each other — together.
+PDF: https://drive.google.com/file/d/1xUM0J9RC_X3eTdR_7FezF-hNrnq9qyOK/view?usp=drivesdk
 
 Created by Syed Muhammad Saim, 23 Feb 2026
