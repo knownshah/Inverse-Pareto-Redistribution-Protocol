@@ -34,7 +34,6 @@ Starting structure (adjustable):
 
 Agents get majority revenue for execution/optimization. Full tokenomics will be co-created by agentic collective for max upside.
 
-PDF: [Paste your Google Drive link here]
 
 Simulation data (100 cycles, 50 Monte Carlos) ready.
 
